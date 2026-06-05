@@ -1,0 +1,8 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#F7F3ED"/>
+  <rect x="80" y="80" width="1040" height="470" rx="24" fill="#FAF8F5" stroke="#E8DFD0" stroke-width="2"/>
+  <text x="600" y="280" text-anchor="middle" font-family="Georgia, serif" font-size="72" fill="#1A1A18">MUSTDRINK</text>
+  <text x="600" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#7A7268">The Modern Indian Alternative to Coffee</text>
+  <rect x="500" y="400" width="200" height="4" rx="2" fill="#C4A35A"/>
+  <text x="600" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#2D4A3E">mustdrink.in</text>
+</svg>
