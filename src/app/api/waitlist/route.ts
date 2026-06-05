@@ -15,7 +15,7 @@ export async function POST(request: Request) {
     }
 
     const resendKey = process.env.RESEND_API_KEY;
-    const notifyEmail = process.env.WAITLIST_NOTIFY_EMAIL ?? "hello@mustdrink.in";
+    const notifyEmail = process.env.WAITLIST_NOTIFY_EMAIL ?? "mustdrink04@gmail.com";
     const fromEmail = process.env.RESEND_FROM_EMAIL ?? "MUSTDRINK <onboarding@resend.dev>";
 
     if (resendKey) {

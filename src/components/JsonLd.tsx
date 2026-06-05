@@ -7,7 +7,7 @@ export function JsonLd() {
     logo: "https://mustdrink.in/og-image.svg",
     description:
       "India's next-generation functional beverage — a modern alternative to coffee built with Fenugreek, Moringa, and Ayurvedic superfoods.",
-    email: "hello@mustdrink.in",
+    email: "mustdrink04@gmail.com",
     foundingLocation: {
       "@type": "Place",
       name: "India",
