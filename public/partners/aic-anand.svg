@@ -1,0 +1,8 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="60" cy="60" r="58" stroke="#9CA3AF" stroke-width="1.5" fill="white"/>
+  <text x="60" y="52" text-anchor="middle" font-family="Georgia, serif" font-size="28" font-weight="600" fill="#1A1A18">A<tspan font-size="22">i</tspan>C</text>
+  <path d="M52 38 Q54 32 56 38" stroke="#2D4A3E" stroke-width="2" fill="#2D4A3E"/>
+  <rect x="28" y="62" width="64" height="18" rx="2" fill="#2D4A3E"/>
+  <text x="60" y="75" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="white" letter-spacing="2">ANAND</text>
+  <text x="60" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="7" fill="#1A1A18">Aspire. Innovate. Create.</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg width="100" height="120" viewBox="0 0 100 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="10" y="8" width="80" height="72" rx="4" fill="#2D4A3E"/>
+  <path d="M30 55 Q50 25 70 55 Q50 70 30 55" fill="#6B9E7A" opacity="0.9"/>
+  <text x="50" y="98" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="600" fill="#1A1A18">AAU</text>
+</svg>
